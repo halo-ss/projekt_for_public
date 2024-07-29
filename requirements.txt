@@ -1,0 +1,9 @@
+Django>=5.0.6,<5.1
+djangorestframework>=3.15.2,<3.16
+psycopg2>=2.9.9,<3
+drf-spectacular>=0.26.5,<0.27
+Pillow>=10.1.0,<10.2
+django-filter==24.2
+yookassa>=3.3.0,<3.4
+celery>=5.4.0,<5.5
+redis>=5.0.7,<5.1
